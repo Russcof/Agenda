@@ -1,0 +1,57 @@
+#ouiii {
+    width : auto;
+    background-color: hsl(0, 0%, 47%);
+    width: 100%;
+    height:100vh;
+ 
+}
+
+#container {
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#menu {
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu-button {
+    width : 60%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around ;
+    background-color: black;
+    color :blanchedalmond;
+    font-size: large;
+}
+
+#profile {
+    margin-right: 3%;
+    width: 20%;
+    height: 80%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+#menu2 {
+    width : 20%;
+    height: 100%;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#menu-button2 {
+    background-color: black;
+    color :blanchedalmond;
+    width : 50%;
+    height: 50%;
+
+}
